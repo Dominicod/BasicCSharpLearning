@@ -5,7 +5,7 @@
  This is a repo of all the learning material I consumed to learn basic CSharp with Exercism. The track is located here: https://exercism.org/tracks/csharp/concepts
 
 <h2>Current Understandings/Learning</h2>
->* C# Basics (Method/Function Creation, Operators, Variable Assignment)
+>C# Basics (Method/Function Creation, Operators, Variable Assignment)
 
 ## Contributions
 <a href="https://github.com/Dominicod/rails-engine-lite/graphs/contributors">

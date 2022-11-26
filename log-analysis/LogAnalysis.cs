@@ -2,11 +2,23 @@ using System;
 
 public static class LogAnalysis 
 {
-    // TODO: define the 'SubstringAfter()' extension method on the `string` type
-
-    // TODO: define the 'SubstringBetween()' extension method on the `string` type
+    public static string SubstringAfter(this string str, string subString)
+    {
+        return str.Split(subString)[1];
+    }
     
-    // TODO: define the 'Message()' extension method on the `string` type
-
-    // TODO: define the 'LogLevel()' extension method on the `string` type
+    public static string SubstringBetween(this string str, string arg1, string arg2)
+    {
+        return str.Split(new[] { arg1, arg2 }, StringSplitOptions.None)[1];
+    }
+    
+    public static string Message(this string str)
+    {
+        return SubstringAfter(str, ":").Trim();
+    }
+    
+    public static string LogLevel(this string str)
+    {
+        return SubstringBetween(str, "[", "]");
+    }
 }

@@ -8,6 +8,7 @@
 <ul>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/lucians-luscious-lasagna/LuciansLusciousLasagna.cs">C# Basics</a> (Method/Function Creation, Operators, Variable Assignment)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/annalyns-infiltration/AnnalynsInfiltration.cs">C# Booleans</a> (Booleans/Ternary Operator)</li>
+<li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/log-levels/LogLevels.cs">C# Strings</a> (Strings/Rider Debugging)</li>
 </ul>
 
 ## Contributions

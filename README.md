@@ -10,6 +10,7 @@
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/annalyns-infiltration/AnnalynsInfiltration.cs">C# Booleans</a> (Booleans/Ternary Operator)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/log-levels/LogLevels.cs">C# Strings</a> (Strings/Rider Debugging)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/cars-assemble/CarsAssemble.cs">C# If Statements</a> (If Statements)</li>
+    <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/log-analysis/LogAnalysis.cs">C# Extension Methods</a> (Extension Methods, String Methods)</li>
 </ul>
 
 ## Contributions

@@ -4,6 +4,10 @@ static class Badge
 {
     public static string Print(int? id, string name, string? department)
     {
-        return id == null ? $"{name} - {(department ?? "OWNER").ToUpper()}" : $"[{id}] - {name} - {(department ?? "OWNER").ToUpper()}";
+        return id.HasValue switch
+        {
+            true => $"[{id}] - {name} - {(department ?? "OWNER").ToUpper()}",
+            false => $"{name} - {(department ?? "OWNER").ToUpper()}",
+        };
     }
 }

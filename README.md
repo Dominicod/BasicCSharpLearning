@@ -5,8 +5,10 @@
  This is a repo of all the learning material I consumed to learn basic CSharp with Exercism. The track is located here: https://exercism.org/tracks/csharp/concepts
 
 <h2>Current Understandings/Learning</h2>
-* [C# Basics](https://github.com/Dominicod/BasicCSharpLearning/blob/main/lucians-luscious-lasagna/LuciansLusciousLasagna.cs) (Method/Function Creation, Operators, Variable Assignment)
-* [C# Booleans](https://github.com/Dominicod/BasicCSharpLearning/blob/main/annalyns-infiltration/AnnalynsInfiltration.cs)(Booleans/Ternary Operator)
+<ul>
+    <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/lucians-luscious-lasagna/LuciansLusciousLasagna.cs">C# Basics</a> (Method/Function Creation, Operators, Variable Assignment)</li>
+    <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/annalyns-infiltration/AnnalynsInfiltration.cs">C# Booleans</a> (Booleans/Ternary Operator)</li>
+</ul>
 
 ## Contributions
 <a href="https://github.com/Dominicod/rails-engine-lite/graphs/contributors">

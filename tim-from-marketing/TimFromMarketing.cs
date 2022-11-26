@@ -4,6 +4,6 @@ static class Badge
 {
     public static string Print(int? id, string name, string? department)
     {
-        throw new NotImplementedException("Please implement the (static) Badge.Print() method");
+        return id == null ? $"{name} - {(department ?? "OWNER").ToUpper()}" : $"[{id}] - {name} - {(department ?? "OWNER").ToUpper()}";
     }
 }

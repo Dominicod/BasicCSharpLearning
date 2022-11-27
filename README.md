@@ -5,6 +5,7 @@
  This is a repo of all the learning material I consumed to learn basic CSharp with Exercism. The track is located here: https://exercism.org/tracks/csharp/concepts
 
 <h2>Current Understandings/Learning</h2>
+<strong>All links go to the actual code I wrote in order to learn described topics</strong>
 <ul>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/need-for-speed/NeedForSpeed.cs">C# Constructors</a> (Constructors, Do While)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/elons-toys/ElonsToys.cs">C# Classes</a> (Classes, Private vs Public)</li>

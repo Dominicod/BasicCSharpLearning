@@ -2,8 +2,8 @@ using System;
 
 class RemoteControlCar
 {
-    private int metersDriven = 0;
-    private int batteryPercentage = 100;
+    private int _metersDriven = 0;
+    private int _batteryPercentage = 100;
     
     public static RemoteControlCar Buy()
     {
@@ -12,18 +12,18 @@ class RemoteControlCar
 
     public string DistanceDisplay()
     {
-        return $"Driven {metersDriven} meters";
+        return $"Driven {_metersDriven} meters";
     }
 
     public string BatteryDisplay()
     {
-        return batteryPercentage == 0 ? "Battery empty" : $"Battery at {batteryPercentage}%";
+        return _batteryPercentage == 0 ? "Battery empty" : $"Battery at {_batteryPercentage}%";
     }
 
     public void Drive()
     {
-        if (batteryPercentage == 0) return;
-        metersDriven += 20;
-        batteryPercentage--;
+        if (_batteryPercentage == 0) return;
+        _metersDriven += 20;
+        _batteryPercentage--;
     }
 }

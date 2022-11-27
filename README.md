@@ -6,6 +6,8 @@
 
 <h2>Current Understandings/Learning</h2>
 <ul>
+    <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/need-for-speed/NeedForSpeed.cs">C# Constructors</a> (Constructors, Do While)</li>
+    <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/elons-toys/ElonsToys.cs">C# Classes</a> (Classes, Private vs Public)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/lucians-luscious-lasagna/LuciansLusciousLasagna.cs">C# Basics</a> (Method/Function Creation, Operators, Variable Assignment)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/annalyns-infiltration/AnnalynsInfiltration.cs">C# Booleans</a> (Booleans/Ternary Operator)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/log-levels/LogLevels.cs">C# Strings</a> (Strings/Rider Debugging)</li>
@@ -14,7 +16,6 @@
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/phone-number-analysis/PhoneNumberAnalysis.cs">C# Tuples</a> (Tuples [Sort of like a hash from Ruby])</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/interest-is-interesting/InterestIsInteresting.cs">C# While Loops</a> (While Loops, Switch Statements)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/tim-from-marketing/TimFromMarketing.cs">C# Nullability</a> (Nullability, Switch Statements)</li>
-    <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/elons-toys/ElonsToys.cs">C# Classes</a> (Classes, Private vs Public)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/roll-the-die/RollTheDie.cs">C# Randomness</a> (Random class [Next, Double])</li>
 </ul>
 

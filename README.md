@@ -11,10 +11,11 @@
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/log-levels/LogLevels.cs">C# Strings</a> (Strings/Rider Debugging)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/cars-assemble/CarsAssemble.cs">C# If Statements</a> (If Statements)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/log-analysis/LogAnalysis.cs">C# Extension Methods</a> (Extension Methods, String Methods)</li>
-    <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/phone-number-analysis/PhoneNumberAnalysis.cs">C# Tuples</a> (Tuples[Sort of like a hash from Ruby])</li>
+    <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/phone-number-analysis/PhoneNumberAnalysis.cs">C# Tuples</a> (Tuples [Sort of like a hash from Ruby])</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/interest-is-interesting/InterestIsInteresting.cs">C# While Loops</a> (While Loops, Switch Statements)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/tim-from-marketing/TimFromMarketing.cs">C# Nullability</a> (Nullability, Switch Statements)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/elons-toys/ElonsToys.cs">C# Classes</a> (Classes, Private vs Public)</li>
+    <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/roll-the-die/RollTheDie.cs">C# Randomness</a> (Random class [Next, Double])</li>
 </ul>
 
 ## Contributions

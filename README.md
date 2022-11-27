@@ -14,6 +14,7 @@
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/phone-number-analysis/PhoneNumberAnalysis.cs">C# Tuples</a> (Tuples[Sort of like a hash from Ruby])</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/interest-is-interesting/InterestIsInteresting.cs">C# While Loops</a> (While Loops, Switch Statements)</li>
     <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/tim-from-marketing/TimFromMarketing.cs">C# Nullability</a> (Nullability, Switch Statements)</li>
+    <li><a href="https://github.com/Dominicod/BasicCSharpLearning/blob/main/elons-toys/ElonsToys.cs">C# Classes</a> (Classes, Private vs Public)</li>
 </ul>
 
 ## Contributions
